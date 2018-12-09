@@ -1,0 +1,12 @@
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\bin\Debug\netcoreapp2.0\LengaburuTraffic.dll.config
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\bin\Debug\netcoreapp2.0\LengaburuTraffic.deps.json
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\bin\Debug\netcoreapp2.0\LengaburuTraffic.runtimeconfig.json
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\bin\Debug\netcoreapp2.0\LengaburuTraffic.runtimeconfig.dev.json
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\bin\Debug\netcoreapp2.0\LengaburuTraffic.dll
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\bin\Debug\netcoreapp2.0\LengaburuTraffic.pdb
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\obj\Debug\netcoreapp2.0\LengaburuTraffic.csproj.CoreCompileInputs.cache
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\obj\Debug\netcoreapp2.0\LengaburuTraffic.AssemblyInfoInputs.cache
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\obj\Debug\netcoreapp2.0\LengaburuTraffic.AssemblyInfo.cs
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\obj\Debug\netcoreapp2.0\LengaburuTraffic.dll
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\obj\Debug\netcoreapp2.0\LengaburuTraffic.pdb
+F:\GeekTrust\LengaburuTraffic\LengaburuTraffic\obj\Debug\netcoreapp2.0\LengaburuTraffic.csprojResolveAssemblyReference.cache
